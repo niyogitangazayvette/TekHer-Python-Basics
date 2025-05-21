@@ -1,0 +1,2 @@
+Data science is a growing field. It combines statistics, coding, and critical thinking.
+Learning Python is essential for data science.
